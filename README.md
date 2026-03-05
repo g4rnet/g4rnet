@@ -1,4 +1,4 @@
-<!-- Animated Header -->
+# <!-- Animated Header -->
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Hello%2C%20World!&fontSize=50&fontColor=00ff88&fontAlignY=38&desc=I%20am%20a%20Fullstack%20Developer&descAlignY=60&descSize=18&descColor=88ffcc&animation=twinkling)
@@ -20,9 +20,9 @@
 
 > 🖥️ **Fullstack Developer** | 📍 Запоріжжя, Україна 🇺🇦  
 > 🎯 **Offer:** *«Turning complex ideas into scalable code»*  
-> 🎓 Навчаюсь у **Запорізькому електротехнічному коледжі**  
-> 🐾 Курси **Академія Крок** — завершено ✅  
-> 🇬🇧 Курси англійської **Гаудеамус** — в процесі 🔄  
+> 🎓 **Studying:** у *Запорізькому електротехнічному коледжі*  
+> 🖥️ **Courses:** ***IT Step*** — завершено ✅  
+> 🇬🇧 **Courses:** англійської ***Гаудеамус*** — в процесі 🔄
 
 ---
 
@@ -46,6 +46,13 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
 
+### OS Experience / Досвід роботи з ОС
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+
 ### Currently Learning / Зараз вивчаю
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,29 +64,42 @@
 
 ```bash
 ┌──[dev@zaporizhzhia]-[~/profile]
+└─$ cat os_experience.md
+```
+
+## 🖥️ OS Experience / Досвід роботи з операційними системами
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  🪟 Windows                                                  │
+│  ├── Windows 10 / 11 — щоденна розробка та адміністрування   │
+│  ├── PowerShell, CMD — автоматизація задач                   │
+│  └── WSL (Windows Subsystem for Linux) — Linux у Windows     │
+│                                                              │
+│  🐧 Linux                                                    │
+│  ├── Ubuntu — веб-розробка, сервери, скрипти                 │
+│  ├── NixOS — декларативна конфігурація системи               │
+│  ├── Bash / Shell scripting — автоматизація                  │
+│  └── CLI-інструменти: git, vim, grep, curl, ssh...           │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```bash
+┌──[dev@zaporizhzhia]-[~/profile]
 └─$ ./run_stats.sh --github
 ```
 
 ## 📊 GitHub Stats / Статистика
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&text_color=88ffcc&icon_color=00ff88&border_color=00ff88&border_radius=10&hide_border=false&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff88&text_color=88ffcc&border_color=00ff88&border_radius=10"/>
-
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=g4rnet&count_private=true&border_radius=10&ring=00C853&fire=00E676&currStreakLabel=00C853&sideLabels=00C853&dates=4CAF50&currStreakNum=00E676&sideNums=00C853&background=0d1117&stroke=00C853&border=00C853" alt="streak stats"/>
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=terminal&background=0D1117&border=00FF88&stroke=00FF88&ring=00FF88&fire=88FFCC&currStreakNum=00FF88&sideNums=00FF88&currStreakLabel=88FFCC&sideLabels=88FFCC&dates=88FFCC&border_radius=10)](https://git.io/streak-stats)
-
-</div>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-bg=true&no-frame=false&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=g4rnet&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&title_color=00C853&text_color=00E676&bg_color=0d1117&border_color=00C853" alt="top langs"/>
 </div>
 
 ---
@@ -97,6 +117,7 @@
   "skills_mastered": ["Python", "HTML", "CSS", "SQLite", "MS Access"],
   "skills_in_progress": ["JavaScript", "Advanced CSS"],
   "next_targets": ["React", "Node.js", "PostgreSQL"],
+  "os_experience": ["Windows 10/11", "Ubuntu", "NixOS"],
   "ultimate_goal": "Senior Fullstack Engineer",
   "status": "🟢 ONLINE - кожен день прогрес"
 }
@@ -129,12 +150,8 @@
 > *"Спочатку вирішуй задачу. Потім пиши код."*  
 > — John Johnson
 
----
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=footer&animation=twinkling)
-
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
