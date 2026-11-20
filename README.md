@@ -73,28 +73,29 @@ I enjoy working with frontend technologies, creating interactive interfaces and 
 <div align="center">
 
 <a href="https://github.com/g4rnet/PokeDuel-Tactics">
-  <img src="https://img.shields.io/badge/FEATURED_PROJECT-00b894?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/★_FEATURED_PROJECT-00b894?style=flat-square&labelColor=20232a" />
 </a>
 
-<br/><br/>
+</div>
 
-<a href="https://github.com/g4rnet/PokeDuel-Tactics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4rnet&repo=PokeDuel-Tactics&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" width="80%" alt="PokeDuel-Tactics"/>
-</a>
+<table>
+<tr>
+<td width="100%">
 
-### PokeDuel-Tactics
+### <a href="https://github.com/g4rnet/PokeDuel-Tactics">PokeDuel-Tactics ↗</a>
 
-A JavaScript game project exploring tactical combat, game mechanics and interactive gameplay.
+A JavaScript tactical game project featuring combat mechanics, abilities and interactive gameplay.
 
-<br/>
+<img src="https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Game_Development-20232a?style=flat-square&logo=gamedeveloper&logoColor=00c896" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Game Development](https://img.shields.io/badge/Game_Development-20232a?style=flat-square&logo=gamedeveloper&logoColor=00c896)
-![Interactive](https://img.shields.io/badge/Interactive_Game-20232a?style=flat-square&logo=gamepad&logoColor=00c896)
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<div align="center">
 
-[**Explore Project →**](https://github.com/g4rnet/PokeDuel-Tactics)
+[View Repository →](https://github.com/g4rnet/PokeDuel-Tactics)
 
 </div>
 
