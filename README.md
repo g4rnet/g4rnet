@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b894,100:0d1117&height=175&section=header&text=Web%20Developer&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Crafting%20interactive%20digital%20experiences&descAlignY=60&descSize=15&descColor=a7bdb8)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b894,100:0d1117&height=145&section=header)
 
 ### JavaScript · HTML5 · CSS3 · Vue.js
 
@@ -66,7 +66,7 @@ When I'm not shipping features or fixing edge cases, I prototype game loops, tes
 
 ## Connect
 
-Open to interesting frontend collaborations, indie/game dev ideas, and thoughtful technical discussions.
+Open to interesting collaborations, indie/game dev ideas, and thoughtful discussions.
 
 <div align="center">
 
