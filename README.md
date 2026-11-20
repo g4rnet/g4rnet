@@ -35,8 +35,8 @@ I enjoy frontend development, experimenting with interactive interfaces and brin
 **Frameworks & Tools**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-20232a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-20232a?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-20232a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 **Additional Technologies**
 
