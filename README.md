@@ -22,73 +22,59 @@ I enjoy frontend development, experimenting with design and functionality, and t
 
 ---
 
-## Tech Stack
+## Technologies
 
 <div align="center">
 
-### Frontend Development
+**FRONTEND**
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-<br/><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
-<br/><sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
-<br/><sub><b>CSS3</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42" height="42" alt="Vue.js"/>
-<br/><sub><b>Vue.js</b></sub>
-</td>
-</tr>
-</table>
+<br/>
 
-### Tools & Environment
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="46" height="46" alt="HTML5"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46" height="46" alt="CSS3"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="46" height="46" alt="Vue.js"/>
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="Visual Studio Code"/>
-<br/><sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-<br/><sub><b>Git</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
-<br/><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite"/>
-<br/><sub><b>SQLite</b></sub>
-</td>
-</tr>
-</table>
+<br/>
+
+<sub>JavaScript　 HTML5　 CSS3　 Vue.js</sub>
+
+<br/><br/>
+
+**TOOLS & ENVIRONMENT**
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38" alt="Git"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" alt="Linux"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQLite"/>
+
+<br/>
+
+<sub>VS Code　 Git　 Linux　 SQLite</sub>
 
 </div>
 
 ---
 
-## GitHub Statistics
+## GitHub Overview
 
 <div align="center">
 
 <a href="https://github.com/g4rnet">
-<img height="165" width="49%" src="https://github-readme-stats.vercel.app/api?username=g4rnet&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9&include_all_commits=true" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=g4rnet&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" alt="GitHub Stats"/>
 </a><a href="https://github.com/g4rnet">
-<img height="165" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4rnet&layout=compact&langs_count=5&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4rnet&layout=compact&langs_count=5&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9" alt="Most Used Languages"/>
 </a>
 
 </div>
-
----
 
 ## Currently Exploring
 
