@@ -68,23 +68,35 @@ I enjoy working with frontend technologies, creating interactive interfaces and 
 
 ---
 
-## Contribution Activity
+---
+
+## Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/g4rnet">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=g4rnet&bg_color=0d1117&color=a7bdb8&line=00c896&point=ffffff&area=true&area_color=00b894&hide_border=true" alt="Contribution Activity Graph"/>
+<a href="https://github.com/g4rnet/PokeDuel-Tactics">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=g4rnet&repo=PokeDuel-Tactics&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" />
+</a><a href="https://github.com/g4rnet/Car-Shop">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=g4rnet&repo=Car-Shop&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" />
 </a>
 
 </div>
 
----
-
-## GitHub Trophies
-
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=g4rnet&theme=onestar&no-frame=true&no-bg=true&column=6)
+**PokeDuel-Tactics**
+
+A browser-based tactical game focused on combat mechanics, abilities and strategic decisions.
+
+`JavaScript` `Game Development` `UI`
+
+<br/>
+
+**Car-Shop**
+
+A responsive car dealership website featuring a structured layout and modern web design.
+
+`HTML5` `CSS3` `Responsive Design`
 
 </div>
 
