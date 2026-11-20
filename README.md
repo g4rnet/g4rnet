@@ -84,9 +84,7 @@ I enjoy working with frontend technologies, creating interactive interfaces and 
 
 <div align="center">
 
-<a href="https://github.com/g4rnet">
-<img width="85%" src="https://github-profile-trophy.vercel.app/?username=g4rnet&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-</a>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=g4rnet&theme=onestar&no-frame=true&no-bg=true&column=6)
 
 </div>
 
