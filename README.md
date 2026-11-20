@@ -1,13 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b894,100:0d1117&height=175&section=header&text=Timur%20Makarenko&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Interactive%20UI%20%26%20Game%20Prototypes&descAlignY=60&descSize=14&descColor=a7bdb8)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b894,100:0d1117&height=175&section=header&text=Timur%20Makarenko&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Interactive%20UI%20%26%20Game%20Prototypes&descAlignY=60&descSize=15&descColor=a7bdb8)
 
 ### JavaScript · HTML5 · CSS3 · Vue.js
 
 *Turning mechanics, interfaces, and raw ideas into playable and usable code.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-g4rnet-20232a?style=flat-square&logo=github&logoColor=00c896)](https://github.com/g4rnet)
-![Profile Views](https://komarev.com/ghpvc/?username=g4rnet&color=00b894&style=flat-square&label=VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=g4rnet&color=00b894&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
