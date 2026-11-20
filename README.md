@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## About Me
 
 I build interactive web interfaces, browser experiments, and game prototypes. I care a lot about clean structure, responsive behavior, and interfaces that feel snappy rather than overcomplicated.
@@ -23,15 +21,11 @@ When I'm not shipping features or fixing edge cases, I prototype game loops, tes
 - **Core Stack:** JavaScript (ES6+), HTML5, CSS3, Vue.js
 - **Side Track:** Game Prototyping, Mechanics & UI/UX Experiments
 
----
-
 ## What You'll Find Here
 
 - **Interactive & Game Projects:** Turn-based logic, custom state handling, and browser-playable experiments (starting with [`PokeDuel-Tactics`](https://github.com/g4rnet/PokeDuel-Tactics)).
 - **UI & Frontend Practice:** Clean layouts, component thinking, and practical web utilities.
 - **Learning & Experiments:** Small focused repositories built to test ideas fast instead of letting them stay in notes.
-
----
 
 ## Tech Stack
 
@@ -53,8 +47,6 @@ When I'm not shipping features or fixing edge cases, I prototype game loops, tes
 
 </div>
 
----
-
 ## GitHub Activity
 
 <div align="center">
@@ -71,8 +63,6 @@ When I'm not shipping features or fixing edge cases, I prototype game loops, tes
 </a>
 
 </div>
-
----
 
 ## Connect
 
