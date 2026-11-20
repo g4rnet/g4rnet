@@ -68,35 +68,33 @@ I enjoy working with frontend technologies, creating interactive interfaces and 
 
 ---
 
----
-
 ## Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/g4rnet/PokeDuel-Tactics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=g4rnet&repo=PokeDuel-Tactics&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" />
-</a><a href="https://github.com/g4rnet/Car-Shop">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=g4rnet&repo=Car-Shop&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" />
+  <img src="https://img.shields.io/badge/FEATURED_PROJECT-00b894?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<a href="https://github.com/g4rnet/PokeDuel-Tactics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=g4rnet&repo=PokeDuel-Tactics&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" width="80%" alt="PokeDuel-Tactics"/>
+</a>
 
-**PokeDuel-Tactics**
+### PokeDuel-Tactics
 
-A browser-based tactical game focused on combat mechanics, abilities and strategic decisions.
-
-`JavaScript` `Game Development` `UI`
+A JavaScript game project exploring tactical combat, game mechanics and interactive gameplay.
 
 <br/>
 
-**Car-Shop**
+![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Game Development](https://img.shields.io/badge/Game_Development-20232a?style=flat-square&logo=gamedeveloper&logoColor=00c896)
+![Interactive](https://img.shields.io/badge/Interactive_Game-20232a?style=flat-square&logo=gamepad&logoColor=00c896)
 
-A responsive car dealership website featuring a structured layout and modern web design.
+<br/><br/>
 
-`HTML5` `CSS3` `Responsive Design`
+[**Explore Project →**](https://github.com/g4rnet/PokeDuel-Tactics)
 
 </div>
 
