@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## About Me
 
 I'm a web developer focused on building modern, responsive and visually appealing digital experiences.
@@ -22,8 +20,6 @@ I enjoy working with frontend technologies, creating interactive interfaces and 
 - **Main Direction:** Frontend & Web Development
 - **Core Stack:** JavaScript, HTML5, CSS3, Vue.js
 - **Interests:** UI/UX, Interactive Experiences, Creative & Game Development
-
----
 
 ## Tech Stack
 
@@ -45,8 +41,6 @@ I enjoy working with frontend technologies, creating interactive interfaces and 
 
 </div>
 
----
-
 ## GitHub Statistics
 
 <div align="center">
@@ -65,41 +59,6 @@ I enjoy working with frontend technologies, creating interactive interfaces and 
 </a>
 
 </div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/g4rnet/PokeDuel-Tactics">
-  <img src="https://img.shields.io/badge/★_FEATURED_PROJECT-00b894?style=flat-square&labelColor=20232a" />
-</a>
-
-</div>
-
-<table>
-<tr>
-<td width="100%">
-
-### <a href="https://github.com/g4rnet/PokeDuel-Tactics">PokeDuel-Tactics ↗</a>
-
-A JavaScript tactical game project featuring combat mechanics, abilities and interactive gameplay.
-
-<img src="https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Game_Development-20232a?style=flat-square&logo=gamedeveloper&logoColor=00c896" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[View Repository →](https://github.com/g4rnet/PokeDuel-Tactics)
-
-</div>
-
----
 
 ## Connect With Me
 
